@@ -67,6 +67,14 @@ myName();
    echo "\n 1 year is :".Test::YEAR ." months";
    echo "\n world is  :".Test:: WORLD;
 
+
+   //comments
+   //single line comment
+   //ctrl + /
+
+   //Multi line comment
+   //Shift + Alt + A
+
     
 
 
